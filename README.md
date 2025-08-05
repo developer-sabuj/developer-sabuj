@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on [Freedom IT Institutions](https://freedomitinstitutions.com/)
 
-- 🤝 I’m looking for help with [Web Design & Development](https://www.linkedin.com/in/sarion-sabuj-biswas/)
+- 🤝 I’m looking for help with [Web Design & Development](https://www.linkedin.com/in/sabujbiswas05/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/developer-sabuj](https://github.com/developer-sabuj)
 
@@ -26,9 +26,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sarion-sabuj-biswas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarion-sabuj-biswas/" height="30" width="40" /></a>
-<a href="https://fb.com/sarion.sabuj.biswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sarion.sabuj.biswas" height="30" width="40" /></a>
-<a href="https://instagram.com/sarion.sabuj.biswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarion.sabuj.biswas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sabujbiswas05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabujbiswas05/" height="30" width="40" /></a>
+<a href="https://fb.com/sabujbiswas05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sabujbiswas05" height="30" width="40" /></a>
+<a href="https://instagram.com/sabujbiswas05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sabujbiswas05" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
